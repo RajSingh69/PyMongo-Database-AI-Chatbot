@@ -4,35 +4,34 @@ A data storage system for the 'DARK CITY' AI chatbot using the MongoDB database 
 # HOW TO START THE CODE
 
 When everything is all set up:
-	Python is installed
-	IDE is installed
-	All packages are installed
-	
-	Code developer has been contacted for missing .env file. This file is not uploaded as it contains VERY sensitive information.
+	1) Python is installed
+	2) IDE is installed
+	3) All packages are installed
+	4) Code developer has been contacted for missing .env file. This file is not uploaded as it contains VERY sensitive information.
   
-  Press run like normal. :)
+  5) Press run like normal. :)
 
 # Software needed to run this script
 
-Python - This is the language the database is coded in (regarding the interaction). Use most recent version.
-IDE - This is for easier viewing and additional coding if needed
+1) Python - This is the language the database is coded in (regarding the interaction). Use most recent version.
+2) IDE - This is for easier viewing and additional coding if needed
 
 # Packages used to run this project
 
-os - Used with the operating system and allows for extra commands.
-pprint - pprint (pretty print) is used for printing data in a nicer way
-pymongo - The python addition for MongoDB
-MongoClient - Needed to access the mongoDb client and database creation / addition services
-datetime - Used for getting the current date and time
-dotenv - Used for creating and accessing .env files (used for data storage)
+1) os - Used with the operating system and allows for extra commands.
+2) pprint - pprint (pretty print) is used for printing data in a nicer way
+3) pymongo - The python addition for MongoDB
+4) MongoClient - Needed to access the mongoDb client and database creation / addition services
+5) datetime - Used for getting the current date and time
+6) dotenv - Used for creating and accessing .env files (used for data storage)
 
 # Commands to install the needed packages
 
-pip install pymongo
-pip install pymongo[srv]
-pip install python-dotenv OR python3 -m pip install python-dotenv
-pip install datetime
-pip install pprint
+1) pip install pymongo
+2) pip install pymongo[srv]
+3) pip install python-dotenv OR python3 -m pip install python-dotenv
+4) pip install datetime
+5) pip install pprint
 
 # Project heirachy explained.
 
