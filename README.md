@@ -4,12 +4,11 @@ A data storage system for the 'DARK CITY' AI chatbot using the MongoDB database 
 # HOW TO START THE CODE
 
 When everything is all set up:
-	1) Python is installed
-	2) IDE is installed
-	3) All packages are installed
-	4) Code developer has been contacted for missing .env file. This file is not uploaded as it contains VERY sensitive information.
-  
-  5) Press run like normal. :)
+1) Python is installed
+2) IDE is installed
+3) All packages are installed
+4) Code developer has been contacted for missing .env file. This file is not uploaded as it contains VERY sensitive information.
+5) Press run like normal. :)
 
 # Software needed to run this script
 
